@@ -1,0 +1,13 @@
+size(700,700);
+fill(8,59,0,80);
+ellipse(300,300,315,315);
+fill(0,33,59,80);
+ellipse(400,400,315,315);
+fill(59,12,0,80);
+ellipse(250,400,315,315);
+textSize(35);
+text("cool",255,225);
+text("athletic",400,400);
+text("amazing",100,400);
+textSize(40);
+text("Arnav",240,300);
